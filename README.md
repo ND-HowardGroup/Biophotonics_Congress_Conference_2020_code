@@ -2,9 +2,8 @@
 
 Image denoising using Noise2noise model
 This is the repository for the open-source program described in
-
-Varun Mannam et al., “Instant Image Denoising Plugin for ImageJ using Convolutional Neural Networks,” in Biophotonics Congress: Biomedical Optics 2020 (Translational, Microscopy, OCT, OTS, BRAIN), OSA Technical Digest (Optical Society of America, 2020), paper MW2A.3.
-
+[Varun Mannam et al., “Instant Image Denoising Plugin for ImageJ using Convolutional Neural Networks,” in Biophotonics Congress: Biomedical Optics 2020 (Translational, Microscopy, OCT, OTS, BRAIN), OSA Technical Digest (Optical Society of America, 2020), paper MW2A.3.](https://www.osapublishing.org/abstract.cfm?uri=Microscopy-2020-MW2A.3)
+```latex
 @inproceedings{Mannam:20,
 author = {Varun Mannam and Yide Zhang and Yinhao Zhu and Scott Howard},
 booktitle = {Biophotonics Congress: Biomedical Optics 2020 (Translational, Microscopy, OCT, OTS, BRAIN)},
@@ -18,9 +17,10 @@ url = {http://www.osapublishing.org/abstract.cfm?URI=Microscopy-2020-MW2A.3},
 doi = {10.1364/MICROSCOPY.2020.MW2A.3},
 abstract = {We present a new convolutional neural network (CNN) based ImageJ plugin for fluorescence microscopy image denoising with an average improvement of 7.5 dB in peak signal-to-noise ratio (PSNR) and denoising instantly within 80 msec.},
 }
+```
 
 
-License & Copyright
+## License & Copyright
 © 2019 Varun Mannam, University of Notre Dame
 
-Licensed under the Apache License 2.0
+Licensed under the [Apache License 2.0](LICENSE)
