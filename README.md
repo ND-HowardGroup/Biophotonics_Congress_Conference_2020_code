@@ -28,4 +28,4 @@ Mannam, Varun, Yide Zhang, and Scott Howard. “Fluorescence Microscopy Denoisin
 ## License & Copyright
 © 2019 Varun Mannam, University of Notre Dame
 
-Licensed under the [GPL](https://github.com/ND-HowardGroup/Biophotonics_Congress_Conference_2020_code/blob/master/LICENSE.txt)
+Licensed under the [GPL](https://github.com/ND-HowardGroup/Biophotonics_Congress_Conference_2020_code/blob/master/LICENSE)
